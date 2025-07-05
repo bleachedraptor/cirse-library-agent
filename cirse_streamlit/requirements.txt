@@ -1,6 +1,0 @@
-streamlit
-playwright
-yt_dlp
-openai
-python-dotenv
-rich
